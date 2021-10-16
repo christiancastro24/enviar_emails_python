@@ -1,0 +1,1 @@
+Modelo de envio com uso de um arquivo HTML
