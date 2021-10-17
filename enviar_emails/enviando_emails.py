@@ -1,5 +1,3 @@
-from string import Template
-from datetime import datetime
 from dados_email import minha_senha, meu_email
 
 # IMPORTS EMAIL 
